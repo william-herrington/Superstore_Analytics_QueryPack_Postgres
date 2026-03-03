@@ -55,36 +55,36 @@ The dataset includes:
 
 ### Raw import row count: 
 
-![Raw Row Count](images/03_raw_row_count.png)
+![Raw Row Count](./IMAGES/03_raw_row_count.png)
 
 ### Profiling outputs: 
 
-![Profiling Missing Values](images/04_profiling_missing_values.png)
-![Category Distribution](images/05_category_distribution.png)
+![Profiling Missing Values](./IMAGES/04_profiling_missing_values.png)
+![Category Distribution](./IMAGES/05_category_distribution.png)
 
 ### Stage validation: 
 
-![Stage Cast Validation](images/07_stage_cast_validation.png)
+![Stage Cast Validation](./IMAGES/07_stage_cast_validation.png)
 
 ### Clean row count: 
 
-![Clean Row Count](images/08_clean_row_count.png)
+![Clean Row Count](./IMAGES/08_clean_row_count.png)
 
 ### Feature preview: 
 
-![Feature Preview](images/09_feature_preview.png)
+![Feature Preview](./IMAGES/09_feature_preview.png)
 
 ### Rolling metrics: 
 
-![Rolling Metrics](images/10_rolling_metrics.png)
+![Rolling Metrics](./IMAGES/10_rolling_metrics.png)
 
 ### Product ranking: 
 
-![Top Products](images/11_top_products.png)
+![Top Products](./IMAGES/11_top_products.png)
 
 ### Cohort retention: 
 
-![Cohort Retention](images/12_cohort_retention.png)
+![Cohort Retention](./IMAGES/12_cohort_retention.png)
 
 ---
 
@@ -109,8 +109,8 @@ Business question: "Do customers return in later months after their first purcha
 ## Repo Structure
 
 ```
-data/  
-images/  
-sql/  
+DATA/  
+IMAGES/ 
+SQL/  
 README.md  
 ```
